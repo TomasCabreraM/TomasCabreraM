@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Tomás Cabrera Mesina</h1>
 <h3 align="center">Un apasionado desarrollador de nivel intermedio en front y back end de Chile</h3>
 
-<p align="left"> <img src="https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/023f904a-d3ca-496c-9afb-9745b2d7b503/Basics+of+Video+Coding.gif" alt="tcabreram" /> </p>
+<p align="left"> <img src="[https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/023f904a-d3ca-496c-9afb-9745b2d7b503/Basics+of+Video+Coding.gif](https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif)" alt="tcabreram" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tcabreram" alt="tcabreram" /></a> </p>
 
