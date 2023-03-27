@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="tcabreram" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tcabreram" alt="tcabreram" /></a> </p>
-
 - 🔭 Trabajo actualmente en [Mundo Diferente Ltda.](https://elearning.mundodiferente.cl/)
 
 - 🌱 Actualmente estoy aprendiendo **Python intermedio**
